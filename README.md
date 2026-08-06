@@ -1,2 +1,2 @@
 # demo-repo
-Showing that i understand GitHub basics
+This should make a merge conflict
