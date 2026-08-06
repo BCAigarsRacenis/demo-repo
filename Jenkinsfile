@@ -58,9 +58,9 @@ pipeline {
                 branch 'main'
             }
             steps {
-                cd scripts
                 echo "Deploying scripts to /home/ssm-user/bootcamp-labs"
                 sh '''
+                    cd scripts
                     echo "=== Deploying Bootcamp Scripts ==="
 
                     # Ensure bootcamp-labs directory exists
