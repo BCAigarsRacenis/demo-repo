@@ -1,1 +1,2 @@
 One more file text
+The second part of rebase testing
